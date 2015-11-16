@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title> Kisa  </title>
+</head>
+<body style="background-color:#333333">
+    <h2 style="text-align:center;color:white">Kako se boriti protiv kise? </h2>
+    <!--ovde pocinje slika -->
+  <center>
+  <img src="source/slika1.jpg"; style:"border:10px solid white;">
+
+ </center>
+
+ <!--ovde pocinje tekst-->  
+
+<p style="text-align:left;color:white;font-size:20px" > Kisa </p>
+
+<p style="text-align:left;color:white">
+Kisa je vid atmosferskih padavina,kao sto su <strong> sneg</strong> , <strong>grad </strong> i <strong> rosa </strong>.Kiša nastaje kada se kapi vode padaju na Zemlju iz oblaka.</p>
+
+<p style="text-align:left;color:white"> 
+Kisa ima veliku ulugu u hidroloskom krugu u kome vlaga iz okeana isparava, kondenzuje se u oblacima, pada nazad na zemlju i vraca se u okean putem reka i potoka da bi zapocela novi ciklus.</p>
+
+<p style="text-align:left;color:white">
+Oblik kišnih kapi se najcešce opisuje kao "<em>oblik suze</em>". Okrugao na dnu i zakrivljen ka vrhu, ali ovaj opis je netacan (samo kapi vode kapane iz odredenih izvora su "oblika suze" u momentu formiranja). Manje kapi kiše su sfericnog oblika. Vece kapi su spljoštene (oblika pljeskavice). Veoma velike kapi su oblika padobrana. U proseku, kap kiše je 1-2 mm u precniku. Najvece zabeležene kapi kiše su uocene nad <i style="color:blue;text-decoration:underline;"> Brazilom </i>i<i style="color:blue;text-decoration:underline;"> Maršalovim ostrvima </i>2004. - neke od njih velike 1cm.</p>
+
+<p style="text-align:left;color:#FFCC00;font-family:ariel;">
+U nekim kulturama su razvijene sprave za borbu protiv kiše kao što je kišobran ili kabanica. U tropskim krajevima ljudi ne vole da izlaze iz kuca tokom kišnih padavina, jer je kiša najcešce povezana sa olujom. </p>
+
+</body>
+</html>
+
+
